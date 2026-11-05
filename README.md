@@ -1,5 +1,10 @@
 # Virakboth's STEP IT Academy Projects
 
+<img 
+  src="https://fsx3.itstep.org/api/v1/files/8Pr2qmAGvOHhZhC3BavWT8tR44sIOBlO"
+  width=100
+/>
+
 This is a collection of various homework, classwork, test and exam projects throughout my time @ [STEP IT Academy (Cambodia)](https://cambodia.itstep.org)
 
 ---
